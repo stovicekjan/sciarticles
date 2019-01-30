@@ -1,0 +1,12 @@
+cz\cvut\fit\stovija5\tjv\sciarticles\service\ArticleResource.class
+cz\cvut\fit\stovija5\tjv\sciarticles\data\InstituteEntity.class
+cz\cvut\fit\stovija5\tjv\sciarticles\service\AbstractCRUDResource.class
+cz\cvut\fit\stovija5\tjv\sciarticles\service\InstituteResource.class
+cz\cvut\fit\stovija5\tjv\sciarticles\dao\Dao.class
+cz\cvut\fit\stovija5\tjv\sciarticles\service\ArticlesEndpoint.class
+cz\cvut\fit\stovija5\tjv\sciarticles\dao\ArticleDao.class
+cz\cvut\fit\stovija5\tjv\sciarticles\dao\InstituteDao.class
+cz\cvut\fit\stovija5\tjv\sciarticles\data\AuthorEntity.class
+cz\cvut\fit\stovija5\tjv\sciarticles\dao\AuthorDao.class
+cz\cvut\fit\stovija5\tjv\sciarticles\data\ArticleEntity.class
+cz\cvut\fit\stovija5\tjv\sciarticles\service\AuthorResource.class
